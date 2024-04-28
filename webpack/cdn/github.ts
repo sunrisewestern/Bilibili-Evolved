@@ -1,7 +1,7 @@
 import { jsDelivr } from './jsdelivr'
 import { CdnConfig } from './types'
 
-const owner = 'the1812'
+const owner = 'sunrisewestern'
 const host = 'raw.githubusercontent.com'
 export const github: CdnConfig = {
   name: 'GitHub',
